@@ -78,7 +78,7 @@ O drawnline irá utilizar uma variação do algoritmo de Bresenham, que pegará 
 
 ## DrawTriangle
 
-Com a criação do DrawLine, para criar o triângulo precisa somente definir três retas.
+Com a criação do DrawLine, para criar o triângulo precisa somente definir três pontos e realizar a chamada da função DrawLine três vezes, assim conseguimos criar um triângulo com interpolação de cores.
 
 <p align="center">
 	<br>
