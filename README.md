@@ -78,7 +78,7 @@ O drawnline irá utilizar uma variação do algoritmo de Bresenham, que pegará 
 
 ## DrawTriangle
 
-Com a criação do DrawLine, para criar o triângulo precisa somente definir três retas.
+Com a criação do DrawLine, para criar o triângulo precisa somente definir três retas. A seguir podemos ver como ficou a função na linguagem C.
 
 <p align="center">
 	<br>
@@ -99,5 +99,3 @@ O maior desafio foi adaptar o algoritmo de Bresenham, que funciona apenas para u
 ---
 
 ## Referências
-
-[1] https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
