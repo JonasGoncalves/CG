@@ -50,7 +50,7 @@ A função a cima possui:
 <p align="center">
 	<br>
 	<img src="./imgs/putpixel.png"/ width=510px height=540px>
-	<h5 align="center">Figure 2 - Pixel vermelho desenhado na tela</h5>
+	<h5 align="center">Figure 2 - Pixeis desenhados na tela</h5>
 	<br>
 </p>
 
@@ -99,3 +99,6 @@ O maior desafio foi adaptar o algoritmo de Bresenham, que funciona apenas para u
 ---
 
 ## Referências
+
+[1] https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
+[2] https://letslearnbits.blogspot.com/2014/10/icgt1-interpolacao-de-cores.html
